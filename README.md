@@ -46,13 +46,13 @@ Membership management system with web-based administration and digital membershi
 
 **Focus:** Web Development • Membership Management • Business Automation
 
-### 🤖 Farvis
-Android AI assistant project designed around voice commands, application actions and AI-assisted workflows.
+### ⚡ Business Automation Platform
+A modular platform concept for connecting operations, reporting, notifications and workflow automation across business systems.
 
-**Focus:** Android • Voice Commands • AI Integration • Automation
+**Focus:** Flutter • Node.js • PostgreSQL • APIs • Automation
 
 ### 📊 Business & Accounting Automation
-Tools for receipts, payment vouchers, invoices, cashbooks, financial reporting and operational workflows.
+Tools for receipts, payment vouchers, invoices, cashbooks, financial reporting and operational workflows, designed to turn day-to-day business data into clear financial information.
 
 **Focus:** Business Systems • Reporting • Process Automation
 
