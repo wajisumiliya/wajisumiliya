@@ -1,0 +1,16 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020817"/><stop offset="1" stop-color="#071d3d"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#0ea5e9"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+<circle cx="150" cy="160" r="94" fill="#031126" stroke="url(#blue)" stroke-width="4"/>
+<circle cx="150" cy="160" r="78" fill="none" stroke="#0ea5e9" stroke-opacity=".28"/>
+<text x="150" y="184" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="800" fill="url(#blue)" filter="url(#glow)">MW</text>
+<text x="290" y="120" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" fill="#f8fafc">Mohamed Wajeethu Ali</text>
+<text x="292" y="164" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" fill="#38bdf8">FULL-STACK DEVELOPER · BUSINESS SYSTEMS BUILDER</text>
+<text x="292" y="207" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#cbd5e1">Flutter  •  Supabase  •  PostgreSQL  •  Node.js  •  Automation</text>
+<line x1="292" y1="233" x2="1050" y2="233" stroke="url(#blue)" stroke-width="2" opacity=".75"/>
+<text x="292" y="270" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#94a3b8">Turning real business workflows into reliable digital systems.</text>
+</svg>
