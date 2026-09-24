@@ -6,6 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=wajisumiliya&style=flat-square&color=0ea5e9)](https://github.com/wajisumiliya)
 [![GitHub followers](https://img.shields.io/github/followers/wajisumiliya?style=flat-square&logo=github&color=2563eb)](https://github.com/wajisumiliya?tab=followers)
+[![Malaysia](https://img.shields.io/badge/Malaysia-🇲🇾-0b57d0?style=flat-square)](https://github.com/wajisumiliya)
 
 </div>
 
@@ -13,38 +14,36 @@
 
 ## 👨‍💻 Developer Profile
 
-I focus on **business-critical applications** rather than isolated demos: payroll, attendance, employee management, membership systems, reporting, messaging workflows and operational automation.
+> **I build software around real business operations — payroll, people, finance, communication and automation.**
 
-My work spans the full application lifecycle — **UI → API → database → authentication → deployment → CI/CD** — with an emphasis on maintainability, security and practical business use.
+I work across the complete application lifecycle: **product workflow → UI → API → database → authentication → deployment → CI/CD**. My focus is building systems that are practical enough for daily operations and structured enough to keep evolving.
 
 ```text
-Mobile / Web     → Flutter · Dart · JavaScript
-Backend          → Node.js · REST APIs
-Data             → PostgreSQL · Supabase
-Cloud / Delivery → Render · Cloudflare · Firebase · GitHub Actions
-Focus            → Payroll · Attendance · Reporting · Business Automation
+CLIENTS      Flutter · Dart · Web
+SERVICES     Node.js · REST APIs · Integrations
+DATA         PostgreSQL · Supabase
+DELIVERY     GitHub Actions · Render · Cloudflare · Firebase
+DOMAIN       Payroll · Attendance · Membership · Reporting · Automation
 ```
 
-## 🚀 Featured Work
+## 🚀 Production & Business Systems
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 💼 [hB Payroll](https://github.com/wajisumiliya/hasanipayroll)
+A payroll and workforce platform covering attendance, overtime, employee access, branch workflows and payroll operations.
 
-Payroll, attendance and employee-management platform with administrator, branch and employee workflows.
-
-**Flutter · PostgreSQL · Supabase · Node.js**
+`Flutter` `PostgreSQL` `Supabase` `Node.js`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🪪 [Hasani ARMS](https://github.com/wajisumiliya/hasaniarms)
+Digital membership management with web administration and operational membership workflows.
 
-Membership-management system with web administration and digital membership workflows.
-
-**JavaScript · Web · Business Automation**
+`JavaScript` `Web` `Automation`
 
 </td>
 </tr>
@@ -52,34 +51,34 @@ Membership-management system with web administration and digital membership work
 <td width="50%" valign="top">
 
 ### 💬 [Hasani WhatsApp](https://github.com/wajisumiliya/hasani-whatsapp)
+Business messaging and communication automation built around repeatable customer workflows.
 
-Messaging and communication automation project for business workflows.
-
-**TypeScript · Automation · APIs**
+`TypeScript` `APIs` `Automation`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📦 [Stock Management](https://github.com/wajisumiliya/Stock-Managment)
+Inventory and stock-management tooling designed for practical day-to-day operations.
 
-Stock-management system designed around practical operational workflows.
-
-**JavaScript · OTP · Inventory**
+`JavaScript` `OTP` `Inventory`
 
 </td>
 </tr>
 </table>
 
-## ⚡ What I Build
+## ⚡ Engineering Capabilities
 
-- **Payroll & HR systems** — payroll processing, attendance, overtime, employee portals and reporting
-- **Business automation** — replacing repetitive operational processes with structured digital workflows
-- **Data-driven dashboards** — turning operational records into useful management information
-- **Secure application backends** — authentication, authorization, APIs and PostgreSQL-backed services
-- **Mobile-first applications** — Flutter interfaces designed for real day-to-day use
-- **Delivery pipelines** — automated formatting, analysis, tests and builds with GitHub Actions
+| Area | What I work on |
+|---|---|
+| 📱 **Application Development** | Flutter mobile/web interfaces and business applications |
+| 🧠 **Business Logic** | Payroll, attendance, overtime, reporting and operational rules |
+| 🗄️ **Data Engineering** | PostgreSQL schemas, migrations, imports and Supabase |
+| 🔐 **Security** | Authentication, authorization, RLS and role-based access |
+| 🔌 **Integrations** | REST APIs, messaging, cloud services and external systems |
+| 🚀 **Delivery** | GitHub Actions, automated testing, builds and deployments |
 
-## 🛠️ Technology
+## 🛠 Technology
 
 <div align="center">
 
@@ -88,8 +87,8 @@ Stock-management system designed around practical operational workflows.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -98,11 +97,15 @@ Stock-management system designed around practical operational workflows.
 
 </div>
 
-## 🧩 Engineering Interests
+## 🧭 Building Toward
 
-`Business Systems` · `FinTech Workflows` · `HR Tech` · `Automation` · `Database Design` · `API Integration` · `Mobile Development` · `Application Security`
+### Business Intelligence & Automation Hub
 
-## 📈 GitHub
+A unified direction for connecting **workforce data, payroll, finance, inventory, branch operations, notifications and management reporting** into intelligent business workflows.
+
+`Operational Dashboards` · `Analytics` · `Workflow Automation` · `API Integration` · `Secure Data`
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -113,16 +116,12 @@ Stock-management system designed around practical operational workflows.
 
 </div>
 
-## 🎯 Current Direction
-
-Building increasingly integrated business platforms where **mobile applications, secure APIs, PostgreSQL data, reporting and automation** work together as one operational system.
-
 ---
 
 <div align="center">
 
-### From business process → architecture → working software.
+### Business process → system architecture → working software
 
-**Malaysia 🇲🇾**
+**Full-Stack Developer · Business Systems Builder · Malaysia 🇲🇾**
 
 </div>
