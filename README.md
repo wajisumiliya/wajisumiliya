@@ -1,15 +1,11 @@
 <div align="center">
 
-# Mohamed Wajeethu Ali
+<img src="./assets/profile-header.svg" width="100%" alt="Mohamed Wajeethu Ali — Full-Stack Developer and Business Systems Builder" />
 
-### Full-Stack Developer · Business Systems Builder
+<br/>
 
-**Flutter · Dart · Supabase · PostgreSQL · Node.js · Automation**
-
-I design and build software that turns real operational workflows into reliable digital systems.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=wajisumiliya&style=flat-square)](https://github.com/wajisumiliya)
-[![GitHub followers](https://img.shields.io/github/followers/wajisumiliya?style=flat-square&logo=github)](https://github.com/wajisumiliya?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=wajisumiliya&style=flat-square&color=0ea5e9)](https://github.com/wajisumiliya)
+[![GitHub followers](https://img.shields.io/github/followers/wajisumiliya?style=flat-square&logo=github&color=2563eb)](https://github.com/wajisumiliya?tab=followers)
 
 </div>
 
